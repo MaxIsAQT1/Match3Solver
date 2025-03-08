@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Match3Solver", "Match3Solver\Match3Solver.csproj", "{22FF0BBD-6A64-4A52-9BC9-253309F9237B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FF0BBD-6A64-4A52-9BC9-253309F9237B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FF0BBD-6A64-4A52-9BC9-253309F9237B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FF0BBD-6A64-4A52-9BC9-253309F9237B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FF0BBD-6A64-4A52-9BC9-253309F9237B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B64936F-4F73-4579-B958-93EA1CC27FF1}
+	EndGlobalSection
+EndGlobal
